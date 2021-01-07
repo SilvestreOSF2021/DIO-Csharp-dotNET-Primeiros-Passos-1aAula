@@ -34,8 +34,22 @@
 
 [*Anders Hejlsberg* (dezembro de 1960) é um engenheiro de software dinamarquês](https://pt.wikipedia.org/wiki/Anders_Hejlsberg) que ganhou prestígio pelo desenvolvimento do Delphi e Turbo Pascal na Borland e a plataforma .NET após ter migrado para a Microsoft. Quando trabalhou na Borland de 1989 até 1996, desenvolveu o Turbo Pascal e Delphi. Após algum tempo virou engenheiro chefe. Microsoft. Em 1996, deixou a Borland e foi para a Microsoft. Sua primeira criação foi a linguagem J++. Ganhou muito reconhecimento pelo desenvolvimento da linguagem C# em 2000. Pode-se dizer que foi o principal desenvolvedor da plataforma .NET. Biografia: Hejlsberg recebeu em 2001 o premio Dr. Dobb's de excelência pelo desenvolvimento das seguintes linguagens de programação : Turbo Pascal, Delphi, C# e Microsoft .NET Framework. (...) _via Wikipédia_
 
-![dotNET Csharp DIO 03 WEB](https://user-images.githubusercontent.com/76437195/103577715-ad5f2500-4eab-11eb-8730-09dd2c9208ed.jpg) 
+![dotNET Csharp DIO 03 WEB](https://user-images.githubusercontent.com/76437195/103577715-ad5f2500-4eab-11eb-8730-09dd2c9208ed.jpg)
 
+[Microsoft Unveils Vision for Next Generation Internet](https://news.microsoft.com/2000/06/22/microsoft-unveils-vision-for-next-generation-internet/) 
+
+[Windows 2000 Server: The Platform for Next Generation Network Services](https://news.microsoft.com/2000/06/06/windows-2000-server-the-platform-for-next-generation-network-services/) _via Microsoft Docs_ 
+
+[O Mono é um projecto liderado pela Novell (anteriormente pela Ximian) para criar um conjunto de ferramentas compatível com a plataforma .NET,](https://pt.wikipedia.org/wiki/Mono_(projeto)) conforme às normas Ecma, incluindo, entre outras, um compilador C# e um CLR. O Mono pode ser executado nos sistemas operativos Linux, BSD, UNIX, Mac OS X, Solaris e Windows. (...) _via Wikipédia_
+
+[Miguel de Icaza ficou interessado na tecnologia .NET,](https://pt.wikipedia.org/wiki/Miguel_de_Icaza) assim que os documentos .NET foram publicados, em dezembro de 2000. Depois de olhar para o interpretador do bytecode, ele percebeu que não havia especificações para os metadados. Em Fevereiro de 2001, Icaza pediu a informação em falta no formato de arquivo metadados (metadata) nos mailing lists .NET e, ao mesmo tempo, começou a trabalhar num compilador C# escrito em C#, como um exercício em C#. (...) _via Wikipédia_
+
+[Microsoft Visual Studio é um ambiente de desenvolvimento integrado (IDE) da Microsoft](https://pt.wikipedia.org/wiki/Microsoft_Visual_Studio) para desenvolvimento de software especialmente dedicado ao .NET Framework e às linguagens Visual Basic (VB), C, C++, C# (C Sharp) e F# (F Sharp). Também é um produto de desenvolvimento na área web, usando a plataforma do ASP.NET, como websites, aplicativos web, serviços web e aplicativos móveis. (...) _via Wikipédia_ 
+
+**A Microsoft lançou o Visual Studio .NET (VS.NET) em Fevereiro de 2002** (A versão beta foi lançada através de Microsoft Developer Network em 2001). A maior mudança foi a introdução de um código gerenciado no ambiente de desenvolvimento utilizando o Framework. NET. Programas desenvolvidos usando. NET não são compilados para linguagem de máquina (como C ++, por exemplo), mas em vez de um formato chamado Microsoft Intermediate Language (MSIL) ou Common Intermediate Language (CIL). (...) _via Wikipédia_
+
+[A linguagem C# depende de tipos e métodos nos quais a especificação C#](https://docs.microsoft.com/pt-br/dotnet/csharp/whats-new/csharp-version-history) é definida como uma biblioteca padrão para alguns dos recursos. A plataforma .NET fornece esses tipos e métodos em alguns pacotes. 
+ 
 ![dotNET Csharp DIO 04 WEB](https://user-images.githubusercontent.com/76437195/103577744-b819ba00-4eab-11eb-8caf-2eb0c740b159.jpg)
 
 ![dotNET Csharp DIO 05 WEB](https://user-images.githubusercontent.com/76437195/103577758-bf40c800-4eab-11eb-9325-8febc006dd90.jpg) 
