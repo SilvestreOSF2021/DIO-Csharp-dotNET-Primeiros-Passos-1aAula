@@ -52,6 +52,12 @@
  
 ![dotNET Csharp DIO 04 WEB](https://user-images.githubusercontent.com/76437195/103577744-b819ba00-4eab-11eb-8caf-2eb0c740b159.jpg)
 
+[Em abril de 2003, a Microsoft introduziu uma pequena atualização para o Visual Studio .NET chamado Visual Studio .NET 2003.](https://pt.wikipedia.org/wiki/Microsoft_Visual_Studio). Ele inclui um upgrade para o quadro Framework, versão 1.1, e é o primeiro lançamento para apoiar programas de desenvolvimento para dispositivos móveis, utilizando ASP.NET ou o quadro .NET Compact. O compilador Visual C ++ teve padrões de conformidade melhorados, especialmente na área de especialização de modelo parcial. Visual C ++ Toolkit 2003 é uma versão do mesmo compilador C ++ .NET fornecido com o Visual Studio 2003 sem o IDE, que a Microsoft fez livremente disponível. Atualmente não estão mais disponíveis pois foram sucedidas pelas versões Express. O número de versão interno da .NET Visual Studio 2003 é a versão 7.1, enquanto a versão de formato de arquivo é de 8.0. (...) _via Wikipédia_
+
+**Em 2005: Recebeu o codinome Whidebey,** esta é a versão 8 e suporta os .NET Frameworks 2.0 e 3.0, e foi lançada em 07/11/2005.
+
+**Em 2008: Lançada em Fevereiro de 2007,** junto com as versões finais dos softwares Windows Server 2008 e o SQL Server 2008.
+
 ![dotNET Csharp DIO 05 WEB](https://user-images.githubusercontent.com/76437195/103577758-bf40c800-4eab-11eb-9325-8febc006dd90.jpg) 
 
 ![dotNET Csharp DIO 06 WEB](https://user-images.githubusercontent.com/76437195/103577782-c962c680-4eab-11eb-80a2-d3bbce491ca5.jpg) 
